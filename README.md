@@ -1,5 +1,8 @@
 # Event-Timeline-Generation-from-Documents
 
+This repo contains our ECML-PKDD paper [Placing (Historical) Facts on a Timeline:
+A Classification cum Coref Resolution Approach](https://arxiv.org/pdf/2206.14089.pdf)
+
 All files are experimented in Google Colab Notebook
 
 1. bert_event_extraction.ipynb
